@@ -1,4 +1,4 @@
-¡Hola! Soy Lyda Marcela Barón Castañeda 👋
+¡Hola! Soy Lyda Marcela Baron 👋
 
 Ingeniera Electrónica (Universidad Nacional de Colombia) en transición hacia el Análisis de Datos, con experiencia consolidando y analizando información técnica de infraestructura eléctrica e industrial en los sectores de energía y manufactura.
 
