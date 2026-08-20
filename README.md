@@ -7,9 +7,13 @@ Ingeniera Electrónica (Universidad Nacional de Colombia) en transición hacia e
 🔧 Stack técnico
 
 Lenguajes: Python (Pandas, NumPy), SQL
+
 Bases de datos: Microsoft SQL Server — consultas avanzadas (CTEs, funciones de ventana, subconsultas)
+
 Visualización: Power BI, Excel (tablas dinámicas)
+
 Análisis: análisis exploratorio, limpieza y transformación de datos
+
 Control de versiones: Git, GitHub
 
 🌱 Actualmente
