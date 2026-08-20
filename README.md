@@ -23,4 +23,5 @@ Construyendo un portafolio de proyectos de análisis de datos aplicados al secto
 📫 Contacto
 
 LinkedIn: lyda-marcela-baron
+
 Correo: lydamarcelabaron@gmail.com
